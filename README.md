@@ -25,7 +25,7 @@ To get started with learning HTML, follow these steps:
 
 2. **Open the Repository:**
    ```
-   cd learn-html
+   cd Learn-HTML
    ```
 
 3. **Explore the Lessons:**
