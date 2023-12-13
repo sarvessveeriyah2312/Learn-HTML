@@ -20,7 +20,7 @@ To get started with learning HTML, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/learn-html.git
+   git clone https://github.com/sarvessveeriyah2312/Learn-HTML.git
    ```
 
 2. **Open the Repository:**
