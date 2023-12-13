@@ -1,4 +1,4 @@
-# # Learn HTML
+# Learn HTML
 
 Welcome to the "Learn HTML" repository! This project is designed to help beginners learn HTML, the fundamental markup language used to create and structure content on the web. Whether you're a complete novice or looking to refresh your HTML skills, this repository is a great starting point.
 
